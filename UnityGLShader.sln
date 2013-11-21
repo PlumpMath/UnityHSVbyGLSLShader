@@ -1,19 +1,23 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-
+Project("{39EFF5A1-EBD4-59F6-C3D7-B10E4A4B7120}") = "UnityGLShader", "Assembly-CSharp.csproj", "{7ED7AC3E-0574-7974-97D3-D635943193E3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-
+		{7ED7AC3E-0574-7974-97D3-D635943193E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ED7AC3E-0574-7974-97D3-D635943193E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ED7AC3E-0574-7974-97D3-D635943193E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ED7AC3E-0574-7974-97D3-D635943193E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-		GlobalSection(MonoDevelopProperties) = preSolution
+													GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
